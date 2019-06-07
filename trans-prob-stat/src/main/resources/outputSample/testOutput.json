@@ -1,0 +1,21 @@
+{
+  "data": {
+    "type": "Accounts",
+      "attributes": {
+      "items": [
+        {
+          "id": "27383839",
+          "name": "Primary Account"
+        },
+        {
+          "id": "000183837",
+          "name": "Secondary Account 1"
+        },
+        {
+          "id": "27383839",
+          "name": "Secondary Account 2"
+        }
+      ]
+    }
+  }
+}
